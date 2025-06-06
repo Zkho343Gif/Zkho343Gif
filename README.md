@@ -3,8 +3,8 @@
 <h2>👨‍💻Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [SIEM Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Zkho343Gif/ProjectLab))
+  - [SIEM Lab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Zkho343Gif/ProjectLab))
 
 
 <h2>📺 Certifications </h2>
